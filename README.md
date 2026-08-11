@@ -6,7 +6,7 @@ This project is a small practice project focused on working with React's State, 
 
 Preview
 
-![TimeLeft Preview](./Capture.PNG)
+![TimeLeft Preview](./src/Capture.PNG)
 
 Features
 
