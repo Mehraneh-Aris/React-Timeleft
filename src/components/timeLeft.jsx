@@ -20,7 +20,7 @@ const TimeLeft = () => {
             <h2 className={styles.title}>تخفیف های ویژه</h2>
             {
               timeLeft > 0 ?(
-                <p className={styles.timer}>زمان باقیمانده : <span className={styles.time}>{formatTime(timeLeft)}</span></p>
+                <p className={styles.timer}>زمان باقیمانده <span className={styles.time}>{formatTime(timeLeft)}</span></p>
               )  : (
                 <p className={styles.expired}>زمان به پایان رسید</p>
               )
